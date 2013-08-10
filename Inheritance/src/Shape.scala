@@ -1,24 +1,27 @@
-abstract class Shape(__x: Int, __y: Int) {
-  protected var _x = __x
-  protected var _y = __y
-
-  def x = _x
-  def y = _y
-
-  def move(newX: Int, newY: Int) = {
-    _x = newX
-    _y = newY
-  }
+abstract class Shape {
+  def centerPoint: Any
 }
 
-class Circle(x: Int, y: Int, rad: Int) extends Shape(x, y) {
-  var radius = rad
+class Circle(_x: Int, _y: Int, _r: Int) extends Shape {
+  var x = _x
+  var y = _y
+  var radius = _r
+
+  def centerPoint = (x, y)
+}
+
+class Rectangle(_x: Int, _y: Int, _w: Int, _h: Int) extends Shape {
+  var x = _x
+  var y = _y
+  var width = _w
+  var height = _h
+
+  def centerPoint = (x + width/2, y + height/2)
 }
 
 object Shapes extends App {
-  val c = new Circle(0,0,10)
+  var c = new Circle(1, 2, 3)
+  var r = new Rectangle(3, 4, 10, 20)
 
-  c.move(2, -3)
-
-  printf("x: %d, y: %d", c.x, c.y)
+  printf("Circle: %s, Rect: %s", c.centerPoint, r.centerPoint)
 }

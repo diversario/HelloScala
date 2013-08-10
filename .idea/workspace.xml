@@ -2,84 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72715974-c724-4745-9624-8e6033fa3e89" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/src/Item.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/src/Shape.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/.history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/default/default-d7f363_2.9.2/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/default/default-d7f363_2.9.2/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/default-default-d7f363_2.9.2-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/cache/default-d7f363/compile/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/cache/default-d7f363/compile/inc_compile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/cache/default-d7f363/global/update/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/cache/default-d7f363/global/update/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/classes/BankAccount_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/classes/CheckingAccount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/classes/Inheritance$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/classes/Inheritance$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/classes/Inheritance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/scala-2.9.2/classes/SavingsAccount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/$global/compilers/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/$global/ivy-configuration/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/$global/project-descriptors/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/$global/update/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/compile/$global/$global/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/compile/compile-inputs/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/compile/compile/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/compile/copy-resources/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/compile/run/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/default/default-448e63_2.9.2/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/default/default-448e63_2.9.2/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/default-default-448e63_2.9.2-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/scala-2.9.2/cache/default-448e63/compile/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/scala-2.9.2/cache/default-448e63/global/update/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/scala-2.9.2/cache/default-448e63/global/update/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/$global/compilers/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/$global/ivy-configuration/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/$global/ivy-sbt/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/$global/project-descriptors/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/$global/update/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/compile/$global/$global/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/compile/compile-inputs/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/compile/compile/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/compile/copy-resources/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inheritance/target/streams/compile/run/$global/out" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Inheritance/src/target/streams/$global/ivy-sbt/$global/out" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/src/Point.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/src/Shape_Other.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/src/Square.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Inheritance/src/Shape.scala" afterPath="$PROJECT_DIR$/Inheritance/src/Shape.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloScala.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376011607366" ignored="false" />
+    <file path="/Dummy.txt" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376069928936" ignored="false" />
     <file path="/BankAccount_1.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376044372046" ignored="false" />
-    <file path="/Shapes.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376045223778" ignored="false" />
-    <file path="/Shape.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376045126802" ignored="false" />
+    <file path="/Shapes.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376097547498" ignored="false" />
+    <file path="/Shape.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376098532809" ignored="false" />
     <file path="/Item.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376055341189" ignored="false" />
     <file path="/.gitignore" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376055567516" ignored="false" />
+    <file path="/Point.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376096650117" ignored="false" />
+    <file path="/SBT" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376096464293" ignored="false" />
+    <file path="/Dummy.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376097736316" ignored="false" />
+    <file path="/Square.scala" changelist="72715974-c724-4745-9624-8e6033fa3e89" time="1376100324995" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,28 +82,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Shape.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Inheritance/src/Shape.scala">
+      <file leaf-file-name="Square.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Inheritance/src/Square.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="12" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Item.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Inheritance/src/Item.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="4" selection-start="12" selection-end="12" vertical-scroll-proportion="0.020661157">
+            <state line="7" column="8" selection-start="154" selection-end="154" vertical-scroll-proportion="0.1446281">
               <folding />
             </state>
           </provider>
@@ -188,15 +112,17 @@
       <list>
         <option value="$PROJECT_DIR$/Inheritance/src/BankAccount_1.scala" />
         <option value="$PROJECT_DIR$/Inheritance/src/Shapes.scala" />
-        <option value="$PROJECT_DIR$/Inheritance/src/Shape.scala" />
         <option value="$PROJECT_DIR$/Inheritance/src/Item.scala" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Inheritance/src/Point.scala" />
+        <option value="$PROJECT_DIR$/Inheritance/src/Shape_Other.scala" />
+        <option value="$PROJECT_DIR$/Inheritance/src/Shape.scala" />
+        <option value="$PROJECT_DIR$/Inheritance/src/Square.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="234" />
-    <option name="y" value="231" />
+    <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="874" />
   </component>
@@ -260,6 +186,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HelloScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HelloScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -273,7 +217,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="last_opened_file_path" value="/usr/local/Cellar/scala/2.10.2/libexec/lib" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -281,6 +225,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -295,7 +240,47 @@
     <option name="referencePos" value="0" />
     <option name="showLabels" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Squares">
+    <configuration default="false" name="Shapes" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Shapes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Inheritance" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Squares" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Squares" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Inheritance" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -362,7 +347,16 @@
       <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Shapes" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Squares" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Squares" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Shapes" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -379,23 +373,23 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="234" y="231" width="1440" height="874" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39522547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39920425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25824964" sideWeight="0.60477453" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17718795" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -523,13 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Inheritance/src/Shape.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance/src/Item.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
@@ -537,9 +524,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/src/Shape_Other.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.3305785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/src/Point.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="269" selection-end="269" vertical-scroll-proportion="0.24793388">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="4" selection-start="12" selection-end="12" vertical-scroll-proportion="0.020661157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/src/Shape.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="457" selection-end="457" vertical-scroll-proportion="0.75313807">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/awt/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="14" selection-start="231" selection-end="231" vertical-scroll-proportion="0.042075735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/src/Square.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="8" selection-start="154" selection-end="154" vertical-scroll-proportion="0.1446281">
           <folding />
         </state>
       </provider>
