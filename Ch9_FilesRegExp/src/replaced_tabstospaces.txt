@@ -1,0 +1,4 @@
+function whatever () {
+    var blah = 4
+    return "Something"
+}
