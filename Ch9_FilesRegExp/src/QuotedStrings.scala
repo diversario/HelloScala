@@ -12,7 +12,7 @@ class QuotedStrings {
 
   def search = {
     val dirs = subdirs(new File("."))
-    val files = (for (d <- dirs) yield d.listFiles.filter((f: File) => """.scala$""".r.findFirstIn(f.getName).toList.length > 0)).flatten
+    val files = (for (d <- dirs) yield d.listFiles.filter(f => """.scala$""".r.findFirstIn(f.getName).toList.length > 0)).flatten
 
     for (f <- files) {
       val fileContent = Source.fromFile(f).getLines().mkString
